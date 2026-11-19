@@ -180,8 +180,8 @@ Code licence: [choose and state, e.g. MIT or Apache-2.0 — add a `LICENSE` file
 
 ## 7. Citation
 
-> [Author list]. Inherited Uncertainty-Label Recommendations in Chest Radiography
-> Are Not Supported by the Evidence Used to Derive Them: A Powered, Patient-Disjoint
-> Replication. *Diagnostics* [year]. DOI: [to be assigned]
+> [Kirti Swagat Mohanty]. Statistical Power and Practical Equivalence of
+Uncertainty-Label Resolution in Multi-Label
+Chest Radiography *Journal Name* [2026]. DOI: [to be assigned]
 
 Archived release: [Zenodo DOI once deposited].
