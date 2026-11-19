@@ -1,8 +1,7 @@
 # Uncertainty-Label Policies in Chest Radiography — Analysis Code
 
-Code accompanying the manuscript *"Inherited Uncertainty-Label Recommendations in
-Chest Radiography Are Not Supported by the Evidence Used to Derive Them: A Powered,
-Patient-Disjoint Replication."*
+Code accompanying the manuscript *"Statistical Power and Practical Equivalence of
+Uncertainty-Label Resolution in Multi-Label Chest Radiography"*
 
 Everything reported in the paper is reproducible from this code plus the public
 source datasets. No image data, model checkpoints or cached embeddings are
